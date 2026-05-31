@@ -1,55 +1,67 @@
-# Brian Maina
- 
-**Data scientist and aspiring AI/ML engineer** based in Nairobi, Kenya.
- 
-I build machine learning systems that work with real-world constraints — sparse data, limited infrastructure, and high stakes. My focus is on applied ML, cloud-native deployment on AWS, and turning messy data into decisions that matter.
- 
-Currently working toward a career in AI/ML engineering: designing, training, and deploying production-grade models at scale.
- 
+<div align="center">
+
+### Hi, I'm Brian Maina 👋
+
+**Data scientist building AI systems for the places where the data runs out.**
+
+📍 Nairobi, Kenya &nbsp;·&nbsp; Applied ML · AI agents · low-resource, high-stakes settings
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-brian--maina-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/brian-maina)
+[![Medium](https://img.shields.io/badge/Medium-@brian__maina-000000?logo=medium&logoColor=white)](https://medium.com/@brian_maina)
+
+</div>
+
 ---
- 
-## What I'm building
- 
-### Kilimanjaro Sentinel
-An open-source cholera outbreak early warning system for East Africa. Built for environments where surveillance data is incomplete, delayed, or missing entirely.
- 
-- Three-model pipeline: Random Forest (outbreak classifier) + XGBoost (risk scorer) + ARIMA/SARIMA (case count forecaster)
-- sklearn and imblearn pipelines with SMOTE, compute_sample_weight, and VotingClassifier ensemble
-- Automated data ingestion from Open-Meteo, ReliefWeb, WHO AFRO, and WHO/UNICEF JMP
-- Conversational alert interface for district health officers
-- Designed around the gaps — proxy indicators replace missing case counts
+
+### About me
+
+I build machine learning systems that hold up under real-world constraints — sparse data, limited infrastructure, and decisions that matter. My work lives at the edge of available data: turning incomplete, messy inputs into outputs people can actually act on.
+
+Right now I'm moving from *building models* to *shipping systems* — production-grade AI agents, retrieval, evaluation, and cloud-native deployment — with a focus on public health and other high-impact, low-resource settings.
+
+> **Designing for the gaps** — building for the data that isn't there, not just the data that is.
+
 ---
- 
-## Skills
- 
+
+
+### 🧰 Toolbox
+
 **Machine learning**
-scikit-learn · XGBoost · Random Forest · ARIMA/SARIMA · ensemble methods · feature engineering · imbalanced classification · time-series forecasting · SHAP explainability
- 
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?logoColor=white)
+![statsmodels](https://img.shields.io/badge/ARIMA%2FSARIMA-statsmodels-8B0000)
+![SHAP](https://img.shields.io/badge/SHAP-explainability-2E8B57)
+
 **Data**
-Python · pandas · NumPy · SQL · data pipeline design · missing data strategies
- 
-**Cloud**
-AWS (learning) · model deployment · API integration
- 
-**Tools**
-Jupyter · VS Code · Git · Matplotlib · Seaborn
- 
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+
+**Currently learning**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-grounded%20LLMs-5A4FCF)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
 ---
- 
-## Where I'm headed
- 
-I'm targeting entry-level AI/ML engineer roles where I can grow from building models to deploying and maintaining them in production. I'm particularly interested in:
- 
-- ML systems that operate at the edge of available data — low-resource, high-impact settings
-- Cloud-native ML pipelines on AWS (SageMaker, Lambda, S3)
-- Closing the gap between a notebook that works and a system that runs
+
+### ✍️ Writing
+
+- 📝 [**The Kilimanjaro Sentinel Project**](https://medium.com/@brian_maina/designing-for-gaps-rethinking-data-driven-public-health-in-africa-b1364d520462) — designing for gaps in public-health data.
+
 ---
- 
-## Writing
- 
-- [The Kilimanjaro Sentinel Project](https://medium.com/@brian_maina/designing-for-gaps-rethinking-data-driven-public-health-in-africa-b1364d520462) — designing for gaps in public health data
----
- 
-## Connect
- 
-[LinkedIn](https://linkedin.com/in/brian-maina) · [Medium](https://medium.com/@brian_maina) · Nairobi, Kenya
+
+<div align="center">
+
+**Let's connect** — I'm always up for conversations about applied ML, agents, and building for impact.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-brian--maina-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/brian-maina)
+[![Medium](https://img.shields.io/badge/Medium-@brian__maina-000000?logo=medium&logoColor=white)](https://medium.com/@brian_maina)
+
+*Designed for the gaps.*
+
+</div>
