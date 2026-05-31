@@ -6,9 +6,6 @@
 
 📍 Nairobi, Kenya &nbsp;·&nbsp; Applied ML · AI agents · low-resource, high-stakes settings
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-brian--maina-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/brian-maina)
-[![Medium](https://img.shields.io/badge/Medium-@brian__maina-000000?logo=medium&logoColor=white)](https://medium.com/@brian_maina)
-
 </div>
 
 ---
