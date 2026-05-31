@@ -62,6 +62,5 @@ Right now I'm moving from *building models* to *shipping systems* — production
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-brian--maina-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/brian-maina)
 [![Medium](https://img.shields.io/badge/Medium-@brian__maina-000000?logo=medium&logoColor=white)](https://medium.com/@brian_maina)
 
-*Designed for the gaps.*
 
 </div>
