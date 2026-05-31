@@ -12,11 +12,11 @@
 
 ### About me
 
-I build machine learning systems that hold up under real-world constraints — sparse data, limited infrastructure, and decisions that matter. My work lives at the edge of available data: turning incomplete, messy inputs into outputs people can actually act on.
+I build machine learning systems that hold up under real-world constraints, sparse data, limited infrastructure, and decisions that matter. My work lives at the edge of available data: turning incomplete, messy inputs into outputs people can actually act on.
 
-Right now I'm moving from *building models* to *shipping systems* — production-grade AI agents, retrieval, evaluation, and cloud-native deployment — with a focus on public health and other high-impact, low-resource settings.
+Right now I'm moving from *building models* to *shipping systems*, production-grade AI agents, retrieval, evaluation, and cloud-native deployment, with a focus on public health and other high-impact, low-resource settings.
 
-> **Designing for the gaps** — building for the data that isn't there, not just the data that is.
+**Designing for the gaps** — building for the data that isn't there, not just the data that is.
 
 ---
 
