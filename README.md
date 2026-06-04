@@ -2,7 +2,7 @@
 
 ### Hi, I'm Brian Maina 👋
 
-**Data scientist building AI systems for the places where the data runs out.**
+**AI Engineer**
 
 📍 Nairobi, Kenya &nbsp;·&nbsp; Applied ML · AI agents · low-resource, high-stakes settings
 
